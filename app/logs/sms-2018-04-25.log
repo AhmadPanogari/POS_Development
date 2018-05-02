@@ -1,0 +1,5 @@
+[2018-04-25 19:32:49] SMS.ERROR: Missing or invalid default region. {"phone":"012345678"} []
+[2018-04-25 20:40:04] SMS.ERROR: The string supplied did not seem to be a phone number. {"phone":""} []
+[2018-04-25 20:47:46] SMS.ERROR: The string supplied did not seem to be a phone number. {"phone":""} []
+[2018-04-25 20:52:53] SMS.ERROR: Missing or invalid default region. {"phone":"012345678"} []
+[2018-04-25 21:14:45] SMS.ERROR: The string supplied did not seem to be a phone number. {"phone":""} []
